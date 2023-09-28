@@ -3,8 +3,7 @@
 body{
     margin:0;
     background-color: rgb(235, 233, 233);
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
     size: 1vh;
 }
 header{
@@ -64,7 +63,7 @@ footer {
     bottom: 0;
     left: 0;
     margin-bottom: 0;
-    width: 100%;
+    max-width: 100%;
     padding: 1rem;
     background-color:#379e6f ;
     text-align: center;
