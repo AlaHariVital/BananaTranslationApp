@@ -63,7 +63,7 @@ footer {
     bottom: 0;
     left: 0;
     margin-bottom: 0;
-    max-width: 100%;
+    max-width: 100% vh;
     padding: 1rem;
     background-color:#379e6f ;
     text-align: center;
